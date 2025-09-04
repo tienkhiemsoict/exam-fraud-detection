@@ -1,4 +1,4 @@
-Cấu trúc
+#Cấu trúc
 exam_fraud_detection/
 ├── 📹 videos/                          # Video input
 │   ├── back_direction.mp4              # Video demo camera sau
