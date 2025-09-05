@@ -4,3 +4,4 @@ mediapipe>=0.10.0
 numpy>=1.21.0
 torch>=2.0.0
 torchvision>=0.15.0
+lap>=0.5.12
