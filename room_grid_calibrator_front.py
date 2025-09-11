@@ -164,7 +164,7 @@ def main():
     # Lấy đường dẫn tuyệt đối của thư mục hiện tại
     current_dir = os.path.dirname(os.path.abspath(__file__))
     video_path = os.path.join(current_dir, "videos", "front_direction.mp4")
-    config_path = os.path.join(current_dir, "grid_config.json")
+    config_path = os.path.join(current_dir, "grid_config_front.json")
     
     print(f"Thư mục hiện tại: {current_dir}")
     print(f"Đường dẫn video: {video_path}")
